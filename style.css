@@ -7,10 +7,13 @@
     left: 0;
 }
 
-#sandwich {
+.sandwich {
     position: relative;
     width: 30%;
+    min-width: 200px;
+    height: 200px;
     margin: auto;
+    padding: 10px;
 }
 
 .lettuce {
